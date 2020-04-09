@@ -16,4 +16,4 @@ The content of the repository is the following, and it will be updated step by s
 - Linear_Regression.ipynb : Linear Methods for Regression 
 - Linear_Classification.ipynb : Linear Methods for Classification
 - ...[TBA]
-
+- [Supervised_Learning.ipynb](https://nbviewer.jupyter.org/github/bradipo89/Supervised_Machine_Learning_Lessons/blob/master/Supervised_Learning.ipynb#s2)
