@@ -12,9 +12,8 @@ is augmented and integrated with the book: 'The Elements of Statistical Learning
 
 The content of the repository is the following, and it will be updated step by step everytime a new notebook will be added:
 
-- Supervised_Learning_Intro.pdf : Introduction Supervised Machine Learning Methods
+- Supervised_Learning_Intro.ipynb : Introduction Supervised Machine Learning Methods
 - Linear_Regression.ipynb : Linear Methods for Regression 
 - Linear_Classification.ipynb : Linear Methods for Classification
 - ...[TBA]
 
-$$\hat{f}$$
