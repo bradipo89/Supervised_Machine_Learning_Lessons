@@ -17,4 +17,4 @@ The content of the repository is the following, and it will be updated step by s
 - Linear_Classification.ipynb : Linear Methods for Classification
 - ...[TBA]
 
-$\hat{f}$
+$$\hat{f}$$
