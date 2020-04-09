@@ -12,8 +12,5 @@ is augmented and integrated with the book: 'The Elements of Statistical Learning
 
 The content of the repository is the following, and it will be updated step by step everytime a new notebook will be added:
 
-- Supervised_Learning_Intro.pdf : Introduction Supervised Machine Learning Methods
-- Linear_Regression.ipynb : Linear Methods for Regression 
-- Linear_Classification.ipynb : Linear Methods for Classification
-- ...[TBA]
-
+- [Supervised_Learning.ipynb](https://nbviewer.jupyter.org/github/bradipo89/Supervised_Machine_Learning_Lessons/blob/master/Supervised_Learning.ipynb#s2)
+- [Linear_Models_OLS.ipynb]()
