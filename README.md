@@ -10,7 +10,6 @@ These lessons are part of the 'Machine Learning Course' of École Normale Supér
 is augmented and integrated with the book: 'The Elements of Statistical Learning' by T.Hastie, R.Tibshirani, J.Friedman. 
 
 
-The content of the repository is the following, and it will be updated step by step everytime a new notebook will be added:
+The first file that is supposed to be read is Supervised_Learning.ipynb that contains the overview of the techinques used in a ML project and the models we studied in details in the other notebooks. 
 
-- [Supervised_Learning.ipynb](https://nbviewer.jupyter.org/github/bradipo89/Supervised_Machine_Learning_Lessons/blob/master/Supervised_Learning.ipynb#s2)
-- [Linear_Models_OLS.ipynb]()
+The dataset we used is an already cleaned version of a dataset used to predict price of apartments in Paris. It contains 24 features plus the price of the apartment per night. The details of the dataset will be clear in the singular noteboks. 
